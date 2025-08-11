@@ -1,0 +1,1 @@
+HTML, CSS, and JavaScript were used to create this straightforward and responsive calculator. beautiful fonts, a contemporary glassy user interface, and a sleek, dark background. It offers a seamless user experience while supporting simple arithmetic operations. Simple design, ready for local storage, and ideal for education or individual use.
